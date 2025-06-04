@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Atributos para a primeira carta
+    // Atributos para a primeirq carta
     char codigo1[4]; // Exemplo: A01 + '\0'
     int populacao1;
     float area1;
